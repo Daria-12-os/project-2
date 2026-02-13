@@ -75,15 +75,15 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.first-character .1 {
+.first-character .one {
 color: red;
 font-family: "Source Sans Pro", sans-serif;
 }
-.first-character .2 {
+.first-character .two {
 color: orange;
 font-family: "Source Sans Pro", sans-serif;
 }
-.first-character .3 {
+.first-character .three {
 color: blue;
 font-family: "Source Sans Pro", sans-serif;
 }
@@ -205,5 +205,6 @@ font-family: "Source Sans Pro", sans-serif;
  }
 
 }
+
 
 
