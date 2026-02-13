@@ -86,19 +86,16 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.first-character .one {
+.first-character-one {
 color: red;
-font-family: "Source Sans Pro", sans-serif;
 }
 
-.first-character .two {
+.first-character-two {
 color: orange;
-font-family: "Source Sans Pro", sans-serif;
 }
 
-.first-character .three {
+.first-character-three {
 color: blue;
-font-family: "Source Sans Pro", sans-serif;
 }
 
 #flat .title {
@@ -216,6 +213,7 @@ font-family: "Source Sans Pro", sans-serif;
   width: 290px;
  }
 }
+
 
 
 
